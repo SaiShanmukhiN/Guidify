@@ -1,0 +1,99 @@
+1. What would be the value of 'a':
+int a = 10/45*23%45/(45%4*21)
+*
+3
+1
+0
+ 
+2
+ 
+2. which of the following is correct?
+*
+!(2+3) = 0
+ 
+a==20
+ 
+!0 = 0
+a=5, b=6; a&&b=1
+ 
+!0 = 1
+ 
+Correct answer
+!0 = 1
+!(2+3) = 0
+a=5, b=6; a&&b=1
+Feedback
+Options 1 and 3 are wrong because x, y, z
+ 
+3. If a is 15, then what would be the value of:
+printf("%d",++a);
+
+*
+16
+ 
+ 
+4. What would be the output of:
+printf("%d\n",1==5==5);
+
+*
+1
+5
+0
+ 
+ 
+5. 
+int a;
+3=a
+*
+True
+False
+ 
+ 
+6.   (232+23*1233) && 0
+*
+0
+ 
+1
+ 
+7.  If a is 15, then what would be the value of:
+printf("%d",a--);
+*
+16
+13
+14
+15
+ 
+ 
+8. Which of the following operators takes only integer operands?
+a) +
+b) *
+c) /
+d) %
+
+*
+a
+b
+c
+d
+ 
+ 
+9. In an expression involving || operator, evaluation
+I. Will be stopped if one of its components evaluates to false
+II. Will be stopped if one of its components evaluates to false
+III. Takes place from right to left
+IV. Takes place from left to right
+*
+a) I and II
+b) I and III
+c) II and III
+d) II and IV
+ 
+ 
+10.  What is the value of a?
+int a = 10 + 4.867;
+*
+a) a = 10
+b) a = 14.867
+c) a = 14
+ 
+d) compiler error
